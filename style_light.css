@@ -2,7 +2,7 @@
  *
  */
 
-body {
+ body {
 	font-family: verdana;
 }
 
@@ -21,8 +21,8 @@ ul {
 	text-decoration: none;
 	border: solid;
 	border-color: #0099FF;
-	border-width: 1px;
-	border-radius: 20px;
+	border-width: -3px;
+	border-radius: 10px;
 	text-align: center;
 	padding: 5px 5px;
 	display: inline-block;
@@ -43,7 +43,7 @@ ul {
 	background-color: rgb(116, 112, 112);
 	color: rgb(255, 255, 255);
 	text-decoration: none;
-	border-radius: 20px;
+	border-radius: 10px;
 }
 
 /* ---- grid ----
@@ -86,13 +86,13 @@ ul {
 *
 */
 .navbutton {
-	background-color: lightgrey;
-	color: black;
+	background-color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 	text-decoration: none;
 	border: solid;
 	border-color: #0099FF;
-	border-width: 1px;
-	border-radius: 20px;
+	border-width: 3px;
+	border-radius: 10px;
 	font-size: 18px;
 	text-align: center;
 	padding: 5px 5px;
