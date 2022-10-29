@@ -32,18 +32,18 @@ ul {
 }
 
 .question {
-	background-color: rgb(0, 0, 0);
-	border-radius: 25px;
+	background-color: rgb(255, 255, 255);
+	border-radius: 10px;
 	padding: 3px;
-	box-shadow: -2px -2px rgb(54, 49, 49);
+	box-shadow: -2px -2px rgb(255, 255, 255);
 	text-decoration: none;
 }
 
 .button_vraag {
-	background-color: rgb(116, 112, 112);
+	background-color: rgb(0, 0, 0);
 	color: rgb(255, 255, 255);
 	text-decoration: none;
-	border-radius: 10px;
+	border-radius: 5px;
 }
 
 /* ---- grid ----
