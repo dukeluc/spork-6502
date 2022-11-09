@@ -70,7 +70,7 @@ const questions =
 			"Je eigen huis heeft hier dus 1 eigen IP adres. Dit ziet elke website die je bezoekt."
 		],
 		"question": {
-			"ask": "Een webiste kan zien vanaf welke computer je eeen website bezoekt",
+			"ask": "Een website kan zien vanaf welke computer je eeen website bezoekt",
 			"answers": ["Dat is waar anders kan je de site niet zien", "Dat is niet waar, de site ziet alleen maar het IP van je huis", "Dat is niet waar, de firewall zit ertussen"],
 			"correct": 1
 		},
@@ -109,7 +109,7 @@ const questions =
 			"Tekst"
 		],
 		"question": {
-			"ask": "Een website dit je bezocht hebt staat op je harde schijg",
+			"ask": "Een website dit je bezocht hebt staat op je harde schijf",
 			"answers": ["Dat is waar, maar na een tijdje vergeet hij dit", "Dat is niet waar, de site staat op het Internet"],
 			"correct": 0
 		},
